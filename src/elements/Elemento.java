@@ -1,7 +1,5 @@
 package elements;
 
-import elements.units.UnitAction;
-
 import javax.swing.ImageIcon;
 import java.awt.Graphics;
 import java.awt.Image;

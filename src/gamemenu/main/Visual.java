@@ -5,19 +5,16 @@
  */
 package gamemenu.main;
 
-import gamemenu.sidebars.ActionMenu;
-import gamemenu.sidebars.StatusBar;
 import gamemenu.Window;
 import managers.WindowManager;
 
-import java.awt.CardLayout;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
 
 
 public class Visual extends JFrame {

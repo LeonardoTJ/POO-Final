@@ -7,7 +7,10 @@ import managers.GameManager;
 import managers.UnitManager;
 import managers.WindowManager;
 
-import java.awt.CardLayout;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
+import javax.swing.event.MouseInputAdapter;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -16,10 +19,6 @@ import java.awt.GridLayout;
 import java.awt.Image;
 import java.awt.Toolkit;
 import java.awt.event.MouseEvent;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.SwingUtilities;
-import javax.swing.event.MouseInputAdapter;
 
 public class Window extends JPanel implements Runnable{
         //  Variables de actualizacion de pantalla

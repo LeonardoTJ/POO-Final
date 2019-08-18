@@ -1,13 +1,9 @@
 package managers;
 
 import elements.Elemento;
-import elements.buildings.Edificio;
-import elements.buildings.MakerBuilding;
 import elements.units.Unidad;
 import gamemenu.Window;
 import gamemenu.sidebars.StatusBar;
-
-import java.awt.Graphics;
 
 public class GameManager implements Manager {
         //  Arreglo de recursos utilizados para crear unidades y construir edificios

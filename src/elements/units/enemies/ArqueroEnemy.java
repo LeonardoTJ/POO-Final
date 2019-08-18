@@ -2,7 +2,6 @@ package elements.units.enemies;
 
 import elements.units.Unidad;
 import managers.UnitManager;
-import managers.WindowManager;
 
 public class ArqueroEnemy extends Enemy {
 

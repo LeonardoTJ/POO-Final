@@ -8,10 +8,6 @@ import gamemenu.sidebars.StatusBar;
 import gamemenu.Window;
 
 import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import java.awt.CardLayout;
-import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.Point;

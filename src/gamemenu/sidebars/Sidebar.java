@@ -1,13 +1,11 @@
 package gamemenu.sidebars;
 
 import elements.Elemento;
-import elements.Terreno;
 import gamemenu.Window;
 
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import java.awt.Dimension;
-import java.awt.Graphics;
 import java.awt.GridLayout;
 import java.awt.Image;
 

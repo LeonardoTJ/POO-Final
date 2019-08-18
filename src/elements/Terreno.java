@@ -1,11 +1,9 @@
 package elements;
 
-import managers.UnitManager;
 import managers.WindowManager;
 
 import java.awt.Color;
 import java.awt.Graphics;
-import java.awt.Point;
 
 public class Terreno extends Elemento {
         //  Comprobar si se esta construyendo algo en esta casilla

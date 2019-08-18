@@ -1,15 +1,7 @@
 package elements.units.enemies;
 
-import elements.Elemento;
-import elements.units.Guardia;
 import elements.units.Unidad;
-import gamemenu.Window;
 import managers.UnitManager;
-import managers.WindowManager;
-
-import java.awt.Graphics;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class GuardiaEnemy extends Enemy {
 

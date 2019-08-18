@@ -1,15 +1,7 @@
 package elements.units;
 
-import elements.Elemento;
-import gamemenu.Window;
 import managers.UnitManager;
 import managers.WindowManager;
-
-import javax.swing.ImageIcon;
-import java.awt.Graphics;
-import java.awt.Image;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class Guardia extends Unidad{
 
